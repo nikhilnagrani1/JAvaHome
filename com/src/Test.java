@@ -5,6 +5,6 @@ class Test
 	public static void main(String arg...)
 	{
 		
-		System.out.println("My one  Hellow world ")
+		System.out.println("My ones  Hellow world ")
 	}
 }
